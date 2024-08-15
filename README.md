@@ -75,6 +75,6 @@ making some design related festival.
 
 # 1. Bharat Flag craeted with reactjs and mui
 
-<img src="../festivals/public/bharat-flag-code.png"/>
+<img src="https://github.com/user-attachments/assets/9de188b1-f104-46a1-953c-61c6177e3745"/>
 ![bharat-flag-code](https://github.com/user-attachments/assets/9de188b1-f104-46a1-953c-61c6177e3745)
 
