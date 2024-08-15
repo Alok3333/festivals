@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{ textDecoration: "underline" }}>
-        WELCOME CAMPUS TECHNOLOGY TEAMS
+        WELCOME REACT FRIENDS
       </h1>
       <h2>
         Date - 15 Aug <span style={{ color: "Orange" }}>{"{^.^}"}Happy </span>
